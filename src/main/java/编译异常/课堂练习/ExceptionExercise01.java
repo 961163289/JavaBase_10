@@ -1,4 +1,4 @@
-package 课堂练习;
+package 编译异常.课堂练习;
 
 public class ExceptionExercise01 {
     public static void main(String[] args) {
